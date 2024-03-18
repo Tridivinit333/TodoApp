@@ -1,0 +1,22 @@
+.todo{
+    width: 70%;
+    background-color: aliceblue;
+    margin: auto;
+    border-radius: 10px;
+    height: 80vh;
+    padding: 10px;
+}
+
+.todo h3{
+    text-align: center;
+}
+
+.todo ul li{
+    text-decoration: none;
+}
+
+.canceled{
+    text-decoration: line-through;
+    color: gray;
+}
+
